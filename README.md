@@ -1,2 +1,2 @@
-# dolcevita
-Project DolceVita: creating enhanced protein sweetener
+# Project DolceVita
+Creating enhanced (thermostable, pH-stable and sweeter)  protein sweetener.
